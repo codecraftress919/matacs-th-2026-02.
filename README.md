@@ -10,7 +10,7 @@ Candidate: Sadia Sultana
 
 Reference: MATACS-TH-2026-02
 
-Time spent:I estimate the total time to be around 1.5 days: 1 day for analysis and planning, and half additional day for preparing the flowchart, evaluation logic, documentation, GitHub repository, and final review.
+Time spent: I estimate the total time to be around 1.5 days: 1 day for analysis and planning, and half additional day for preparing the flowchart, evaluation logic, documentation, GitHub repository, and final review.
 
 
 
