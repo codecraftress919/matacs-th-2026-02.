@@ -1,0 +1,174 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="9Tq6zHVCnaHenZykli3Z">
+    <mxGraphModel dx="3365" dy="2161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T0Ste_biNOIM172199aP-5" edge="1" parent="1" source="T0Ste_biNOIM172199aP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#1BA1E2,#99FFFF);fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-7" edge="1" parent="1" source="T0Ste_biNOIM172199aP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=light-dark(#008A00,#B9E0A5);fontColor=#ffffff;strokeColor=#005700;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Admin Setup&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Set Mandatory criteria and scoring weights&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="337.5" x="256.25" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-9" edge="1" parent="1" source="T0Ste_biNOIM172199aP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=light-dark(#008A00,#B9E0A5);fontColor=#ffffff;strokeColor=#005700;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. Upload Proposals&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Reviewer uploads contractor proposals and select category.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="337.5" x="256.25" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-11" edge="1" parent="1" source="T0Ste_biNOIM172199aP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=light-dark(#1ba1e2, #99ffff);fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. Extract Information&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AI extracts details such as license, insurance, experience, price, timeline and warranty&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="337.5" x="256.25" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-13" edge="1" parent="1" source="T0Ste_biNOIM172199aP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;fillColor=light-dark(#1ba1e2, #99ffff);fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4. Validate Information&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Check for missing, unclear or conflicting information.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="60" width="337.5" x="256" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-15" edge="1" parent="1" source="T0Ste_biNOIM172199aP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-17" edge="1" parent="1" source="T0Ste_biNOIM172199aP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="T0Ste_biNOIM172199aP-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#1ba1e2, #99ffff);strokeColor=#006EAF;fontColor=#ffffff;rounded=1;roundedPerimeter=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Important Info missing?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="235.25" x="307.12" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-14" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000, #e6e6e6);strokeColor=#000000;fontColor=#ffffff;rounded=1;roundedPerimeter=1;align=left;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;5. Check Mandatory Criteria&lt;/b&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Use system rules to verify license, WSIB clearance and insurance&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="590" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-16" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#647687,#CCCCCC);strokeColor=#000000;fontColor=#ffffff;rounded=1;roundedPerimeter=1;align=center;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Flagged for review&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Need human attention)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="235.25" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="533.75" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="235.25" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#1ba1e2, #99ffff);fillStyle=solid;fontColor=#ffffff;strokeColor=light-dark(#314354, #000000);" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Mandatory Criteria Passed?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="90" width="235.25" x="285" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.515;exitY=0.999;exitDx=0;exitDy=0;" target="T0Ste_biNOIM172199aP-25" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1842" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="720" />
+              <mxPoint x="520" y="720" />
+              <mxPoint x="402.63" y="720" />
+            </Array>
+            <mxPoint x="710.2575150300602" y="700" as="sourcePoint" />
+            <mxPoint x="533.7499999999999" y="794.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#000000;strokeColor=light-dark(#314354,#000000);fontColor=#ffffff;" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Ineligible&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Does not meet requirements)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-28" edge="1" parent="1" source="T0Ste_biNOIM172199aP-25" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.972;exitY=0.491;exitDx=0;exitDy=0;exitPerimeter=0;" target="T0Ste_biNOIM172199aP-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="830" as="sourcePoint" />
+            <mxPoint x="560" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;No&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-30" edge="1" parent="1" source="T0Ste_biNOIM172199aP-25" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="920" as="sourcePoint" />
+            <mxPoint x="402.63" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;fillColor=light-dark(#647687, #e6e6e6);fontColor=#ffffff;strokeColor=light-dark(#314354, #050505);" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;6. Evaluate Proposals&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Apply the defining scoring weights using system rules.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="80" width="326.06" x="240" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-32" edge="1" parent="1" source="T0Ste_biNOIM172199aP-31" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="T0Ste_biNOIM172199aP-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="1090" as="sourcePoint" />
+            <mxPoint x="403.03" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;fillColor=light-dark(#1ba1e2, #99ffff);fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;7. Generate Ranking&lt;/font&gt;&lt;/b&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Show scores and reasons for each eligible proposal.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="70" width="310" x="247.62" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-35" edge="1" parent="1" source="T0Ste_biNOIM172199aP-33" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="1250" as="sourcePoint" />
+            <mxPoint x="403.02999999999975" y="1209.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;fillColor=light-dark(#FFFFFF,#B9E0A5);fontColor=light-dark(#000000,#000000);" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;8. Human Review&lt;/font&gt;&lt;/b&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Reviewer checks the results and makes the final award decision.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="70" width="310" x="248.03" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="T0Ste_biNOIM172199aP-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="403.02999999999975" y="1279.9999999999998" as="sourcePoint" />
+            <mxPoint x="460" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;fillColor=light-dark(#E6E6E6,#E6E6E6);fontColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;9. Save Audit Record&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Store scores, evidence, criteria version and reviewer decisions.&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" vertex="1">
+          <mxGeometry height="70" width="310" x="248.03" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-40" edge="1" parent="1" source="T0Ste_biNOIM172199aP-36" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T0Ste_biNOIM172199aP-39" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="1540" as="sourcePoint" />
+            <mxPoint x="440" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T0Ste_biNOIM172199aP-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="950" />
+            </Array>
+            <mxPoint x="110" y="620" as="sourcePoint" />
+            <mxPoint x="310" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Yes&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontSize=24;fontStyle=1;fillColor=light-dark(#99FFFF,#99FFFF);fontColor=light-dark(#000000,#000000);" value="End" vertex="1">
+          <mxGeometry height="80" width="170" x="318.03" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-44" edge="1" parent="1" source="T0Ste_biNOIM172199aP-39" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T0Ste_biNOIM172199aP-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="1360" as="sourcePoint" />
+            <mxPoint x="210" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-45" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="175" width="175" x="710" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-46" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#99FFFF,#99FFFF);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="720" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-47" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#B9E0A5,#B9E0A5);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="720" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-48" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#E6E6E6,#E6E6E6);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="720" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AI Step&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="770" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Human Review&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="735" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;System Rules&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="757.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Ste_biNOIM172199aP-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;u&gt;AI Powered Proposal Review Workflow&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="453.75" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
